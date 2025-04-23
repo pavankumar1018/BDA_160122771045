@@ -1,5 +1,10 @@
+# Big Data Analytics (22ADC12)
+##  PySpark ML Project: Classification, Clustering, and Recommendation
 
-#  PySpark ML Project: Classification, Clustering, and Recommendation
+##  Student Details
+**Jammula Pavan Kumar**  
+**160122771045**
+**AD&DS-1(I1) SEM-6**
 
 This project showcases three different machine learning models implemented using **Apache Spark (PySpark)**:
 
@@ -76,10 +81,7 @@ Or run inside a Python script or Jupyter notebook if preferred.
 
 ---
 
-##  Author
 
-**Jammula Pavan Kumar**  
-**160122771045**
 
 ---
 
